@@ -1,2 +1,2 @@
-# aprendizado-front
-Estarei deixando neste repositorio, meus aprendizados em FrontEnd
+# Estudos-front
+Tudo o que estudei referente ao Front-end
